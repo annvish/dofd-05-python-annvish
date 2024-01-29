@@ -1,4 +1,4 @@
-upd for pull request
+for pull request
 
 # Flask Product API
 
